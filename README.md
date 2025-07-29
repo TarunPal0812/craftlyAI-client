@@ -31,7 +31,7 @@ This is the frontend for CraftlyAI, an AI-powered content and image generation p
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-org/craftlyAI-client.git
+   git clone https://github.com/TarunPal0812/craftlyAI-client.git
    cd craftlyAI
    ```
 
@@ -104,6 +104,8 @@ src/
 
 ---
 
-## License
+## Live Frontend
 
-MIT © ctaftlyAI
+🌐 [https://craftlyai-client.netlify.app/](https://craftlyai-client.netlify.app/)
+
+---
